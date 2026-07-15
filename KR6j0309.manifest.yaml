@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0309/v1
 canonical_location: https://kanripo.org/bkk/KR6j0309/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說大方廣曼殊室利經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0309_000.yaml, hash: 'sha256:0b8f71501cccd35fba1370fd80ce7145d13ba22eec5452953124af650251c43c'}
-  - {seq: 1, filename: KR6j0309_001.yaml, hash: 'sha256:c726449a90da553bf935cc60a381de00e60c9fc742007c30e1e1e5d241e1fcd0'}
+  - {seq: 1, filename: KR6j0309_001.yaml, hash: 'sha256:bc5311c370025f29d5cb0a0b505838971bddaf1944b9584ecdfd3382f3711dc0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0309_000.markers.yaml, hash: 'sha256:153c7c90ba713be497655d7582e12dc22ceb2f7e7506f4864675005b3b1f0842'}
-  - {seq: 1, role: markers, filename: assets/KR6j0309_001.markers.yaml, hash: 'sha256:93e639cc8b7f51a83b07cee5f0d333b89a9cd29f7a6da0e92cd47144eaac8290'}
+  - {seq: 1, role: markers, filename: assets/KR6j0309_001.markers.yaml, hash: 'sha256:fd938bba19a6aa916695030b5ac9908143eaf7bf11eaf4eaf5c126f01d9f76bd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -79,4 +79,7 @@ table_of_contents:
   label: 3 畫像品
   type: mulu
   level: 1
-hash: sha256:48cee8f9fab4ee8fcacc6e9403063aebde5349e60542b2946cccee54be8a88d7
+hash: sha256:0608c49128044c935fd49f6aef080a6035981b101bee8322975134ac7616179d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
